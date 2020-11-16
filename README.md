@@ -11,19 +11,20 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 
 ## Instructions
 
 
-# User Story
+## User Story
 
 <!-- ![Screenshot](https://user-images.githubusercontent.com/65379991/99204522-f1735a80-2783-11eb-8e94-3a19f17ca99c.png "Screenshot") -->
 
 
-# Screenshot 
+## Screenshot 
 ![Screenshot](https://user-images.githubusercontent.com/65379991/99204525-f46e4b00-2783-11eb-8323-03a7f3f780d6.png "Screenshot")
+![Screenshot](https://user-images.githubusercontent.com/65379991/99204522-f1735a80-2783-11eb-8e94-3a19f17ca99c.png "Screenshot")
 
 
 <!-- LICENSE -->
